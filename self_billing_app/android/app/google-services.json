@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327936132968",
+    "project_id": "self-billing-app",
+    "storage_bucket": "self-billing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327936132968:android:18e47c666551a58b0bb8dd",
+        "android_client_info": {
+          "package_name": "com.example.self_billing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOGYKjWODLBeflemu-WRjRqOmfk25eDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
